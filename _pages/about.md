@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://cerdi.uca.fr/'>CERDI</a>. <a href='https://ferdi.fr/'>FERDI</a>.
 
 profile:
   align: right
