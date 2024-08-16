@@ -67,7 +67,17 @@
     }
   ],
   
- 
+  
+   "volunteer": [
+    {
+      "organization": "SDIS 63",
+      "location": "Aubière, France",
+      "position": "Volunteer firefighter",
+      "startDate": "2006-02-01",
+      "endDate": "2016-09-01",
+    }
+  ],
+
   "education": [
     {
       "institution": "CERDI, Université Clermont Auvergne",
@@ -88,16 +98,6 @@
     }
   ],
   
-   "volunteer": [
-    {
-      "organization": "SDIS 63",
-      "location": "Aubière, France",
-      "position": "Volunteer firefighter",
-      "startDate": "2006-02-01",
-      "endDate": "2016-09-01",
-    }
-  ],
-
   "certificates": [
     {
       "name": "Spatial Analysis with sf and raster in R",
@@ -208,12 +208,12 @@
       ]
     }
   ],
+  
   "references": [
     {
       "name": "Professor Vianney Dequiedt",
       "icon": "fa-solid fa-laptop",
-      "url": "https://ferdi.fr/en/biographies/vianney-dequiedt"
-      }
+     }
   ]
 
 }
