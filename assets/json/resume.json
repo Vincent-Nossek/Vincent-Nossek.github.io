@@ -67,18 +67,7 @@
     }
   ],
   
-  
-   "volunteer": [
-    {
-      "organization": "SDIS 63",
-      "location": "Aubière, France",
-      "position": "Volunteer firefighter",
-      "startDate": "2006-02-01",
-      "endDate": "2016-09-01"
-    }
-  ],
-
-  "education": [
+    "education": [
     {
       "institution": "CERDI, Université Clermont Auvergne",
       "location": "Clermont-Ferrand, France",
@@ -96,6 +85,19 @@
       "endDate": "2012-06-01"
     }
   ],
+
+  
+   "volunteer": [
+    {
+      "organization": "SDIS 63",
+      "location": "Aubière, France",
+      "position": "Volunteer firefighter",
+      "startDate": "2006-02-01",
+      "endDate": "2016-09-01"
+    }
+  ],
+
+
   
   "certificates": [
     {
@@ -208,7 +210,7 @@
   "references": [
     {
       "name": "Professor Vianney Dequiedt",
-      "icon": "fa-solid fa-laptop",
+      "icon": "fa-solid fa-laptop"
      }
   ]
 
