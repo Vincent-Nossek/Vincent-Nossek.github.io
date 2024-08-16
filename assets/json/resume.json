@@ -74,7 +74,7 @@
       "location": "Aubière, France",
       "position": "Volunteer firefighter",
       "startDate": "2006-02-01",
-      "endDate": "2016-09-01",
+      "endDate": "2016-09-01"
     }
   ],
 
@@ -85,8 +85,7 @@
       "area": "Development economics",
       "studyType": "PhD Candidate",
       "startDate": "2021-12-01",
-      "endDate": "2025-05-01",
-      "courses": ["Assessing the economic impact of electricity access using remote sensing and field surveys"]
+      "endDate": "2025-05-01"
     },
     {
       "institution": "CERDI, Université Clermont Auvergne",
@@ -152,8 +151,7 @@
         "Microeconomics",
         "Impact studies",
         "Project evaluation"
-        ]
-    },
+        ] },
     {
       "name": "Operating systems",
       "level": "Master",
@@ -162,8 +160,7 @@
         "Microsoft",
         "Mac OS X",
         "Linux (Debian)"
-      ]
-    },
+      ] },
          {
       "name": "Software",
       "level": "Master",
@@ -173,8 +170,7 @@
         "Pyhton",
         "QGIS",
         "Stata"
-      ]
-    }, 
+      ] }
     ],
   
   "languages": [
