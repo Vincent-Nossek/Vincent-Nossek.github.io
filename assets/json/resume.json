@@ -26,7 +26,7 @@
       "name": "The World Bank, Macroeconomics, Trade and Investment GP",
       "position": "Consultant, Data Scientist",
       "startDate": "2024-01-01",
-      "endDate": "Current",
+      "endDate": "2025-07-01",
       "summary": "Application of remote sensing and geospatial intelligence (GEOINT) to macroeconomic analysis.",
       "highlights": ["Remote sensing analysis", "GEOINT"]
     },
@@ -175,8 +175,8 @@
         "Stata"
       ]
     }, 
-    
-  ],
+    ],
+  
   "languages": [
     {
       "language": "English",
@@ -214,6 +214,6 @@
       "icon": "fa-solid fa-laptop",
       "url": "https://ferdi.fr/en/biographies/vianney-dequiedt"
       }
-  ],
+  ]
 
 }
