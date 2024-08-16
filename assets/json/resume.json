@@ -1,200 +1,219 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Vincent Nossek",
+    "label": "Economist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "vincent.nossek@gmail.com",
+    "phone": "+33 (0)6 3448 1453",
+    "url": "https://vincent-nossek.github.io",
+    "summary": "Development econmist specializing in the application of remote sensing and machine learning to development issues",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "25 boulevard Pasteur",
+      "postalCode": "63000",
+      "city": "Clermont-Ferrand",
+      "countryCode": "FR"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "Vincent Nossek",
+        "url": "https://www.linkedin.com/in/vincent-nossek-8944635b/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "The World Bank, Macroeconomics, Trade and Investment GP",
+      "position": "Consultant, Data Scientist",
+      "startDate": "2024-01-01",
+      "endDate": "Current",
+      "summary": "Application of remote sensing and geospatial intelligence (GEOINT) to macroeconomic analysis.",
+      "highlights": ["Remote sensing analysis", "GEOINT"]
+    },
+     {
+      "name": "The World Bank, Macroeconomics, Trade and Investment GP",
+      "position": "Consultant, Data Analyst",
+      "startDate": "2020-03-01",
+      "endDate": "2020-07-01",
+      "summary": "Analytical support on Cameroon's trade competitiveness.",
+      "highlights": ["Trade analysis", "Competitivity analysis"]
+    },
+     {
+      "name": "The World Bank, Macroeconomics, Trade and Investment GP",
+      "position": "Consultant, Data Analyst",
+      "startDate": "2019-05-01",
+      "endDate": "2019-07-01",
+      "summary": "Study on Public Investment and Firms' Performance in Cameroon.",
+      "highlights": ["Public Investment", "Impact analysis"]
+    },
+     {
+      "name": "FERDI",
+      "location": "Clermont-Ferrand",
+      "position": "Research Assistant",
+      "url": "https://ferdi.fr/en/publications?refinementList%5Bauthors.name%5D%5B0%5D=Vincent%20NOSSEK",
+      "startDate": "2013-10-01",
+      "endDate": "2024-11-30",
+      "summary": "Research assistant covering a large spectrucm of development topics such as vulnerability, conflicts, developement finance, health, energy access",
+      "highlights": ["Macroeconomic analysis", "Statsitics", "Vulnerability analysis", "Conflicts analysis"]
+    },
+       {
+      "name": "OECD",
+      "location": "Paris",
+      "position": "Consusltant",
+      "startDate": "2012-01-01",
+      "endDate": "2012-04-30",
+      "summary": "Data entry, cleaning and analysis on survey data related to the entrepreunarial training needs in universities",
+      "highlights": ["Data cleaning", "Statsitics", "Data analysis"]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
+  
+ 
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
+      "institution": "CERDI, Université Clermont Auvergne",
+      "location": "Clermont-Ferrand, France",
+      "area": "Development economics",
+      "studyType": "PhD Candidate",
+      "startDate": "2021-12-01",
+      "endDate": "2025-05-01",
+      "courses": ["Assessing the economic impact of electricity access using remote sensing and field surveys"]
+    },
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "institution": "CERDI, Université Clermont Auvergne",
+      "location": "Clermont-Ferrand, France",
+      "area": "Development economics",
+      "studyType": "Master's degree",
+      "startDate": "2011-09-01",
+      "endDate": "2012-06-01"
     }
   ],
+  
+   "volunteer": [
+    {
+      "organization": "SDIS 63",
+      "location": "Aubière, France",
+      "position": "Volunteer firefighter",
+      "startDate": "2006-02-01",
+      "endDate": "2016-09-01",
+    }
+  ],
+
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Spatial Analysis with sf and raster in R",
+      "date": "2020-06-01",
+      "issuer": "Datacamp",
+      "url": "https://www.datacamp.com/statement-of-accomplishment/course/e96011d2c0c8bebc24ecdd132c2f34b21a471023"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Cluster Analysis in R",
+      "date": "2020-04-01",
+      "issuer": "Datacamp",
+      "url": "https://www.datacamp.com/completed/statement-of-accomplishment/course/10e3653098e96f6ed27bc1b4353f524b8cfa0a2a"
+     },
+    {
+      "name": "Supervised Learning in R",
+      "date": "2020-04-01",
+      "issuer": "Datacamp",
+      "url": "https://www.datacamp.com/completed/statement-of-accomplishment/course/3bd71fa28ebfb2aa01c249b34513845797479d84"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "Unsupervised Learning in R",
+      "date": "2020-04-01",
+      "issuer": "Datacamp",
+      "url": "https://www.datacamp.com/statement-of-accomplishment/course/15df5046f9637becefa78fbc17ea2a7dbef92fdf"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Intermediate Python for Data Science",
+      "date": "2019-11-01",
+      "issuer": "Datacamp",
+      "url": "https://www.datacamp.com/completed/statement-of-accomplishment/course/81ca51bbc74aba33ad22c9a1e0d5284e78947057"
     }
   ],
+  
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
+      "name": "Stuck in a Fragility Trap: The Case of the Central African Republic Civil War",
+      "publisher": "Defence and Peace Economics",
+      "releaseDate": "2024-07-15",
+      "url": "https://doi.org/10.1080/10242694.2024.2385385"
+      }
   ],
+  
   "skills": [
     {
-      "name": "Physics",
+      "name": "Economics",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Macroeconomics",
+        "Econometrics",
+        "Statistics",
+        "Microeconomics",
+        "Impact studies",
+        "Project evaluation"
+        ]
+    },
+    {
+      "name": "Operating systems",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Microsoft",
+        "Mac OS X",
+        "Linux (Debian)"
       ]
-    }
+    },
+         {
+      "name": "Software",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "R",
+        "Pyhton",
+        "QGIS",
+        "Stata"
+      ]
+    }, 
+    
   ],
   "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
     {
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "Native",
+      "icon": ""
+    },
+     {
+      "language": "Spanish",
+      "fluency": "Basics",
+      "icon": ""
     }
   ],
+  
   "interests": [
     {
-      "name": "Physics",
+      "name": "Sports",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Alpnine skiing",
+        "Ski touring",
+        "Mountain biking",
+        "Paragliding",
+        "BJJ"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Professor Vianney Dequiedt",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
+      "url": "https://ferdi.fr/en/biographies/vianney-dequiedt"
+      }
   ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
+
 }
